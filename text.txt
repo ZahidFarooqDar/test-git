@@ -1,2 +1,3 @@
 this is text file
 added more text
+how to get fetch
