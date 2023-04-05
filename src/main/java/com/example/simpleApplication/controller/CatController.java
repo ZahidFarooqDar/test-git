@@ -10,4 +10,9 @@ public class CatController {
     public String getCat(){
         return "this is cat controller";
     }
+    @GetMapping(value = "/cat2" )
+    public String getCat2(){
+        return "this is cat2 controller";
+    }
+
 }
